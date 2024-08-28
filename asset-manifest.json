@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ajaykumar5757/creating-chessboard-using-reactjs/static/css/main.95735556.css",
+    "main.js": "/Ajaykumar5757/creating-chessboard-using-reactjs/static/js/main.3b508413.js",
+    "index.html": "/Ajaykumar5757/creating-chessboard-using-reactjs/index.html",
+    "main.95735556.css.map": "/Ajaykumar5757/creating-chessboard-using-reactjs/static/css/main.95735556.css.map",
+    "main.3b508413.js.map": "/Ajaykumar5757/creating-chessboard-using-reactjs/static/js/main.3b508413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95735556.css",
+    "static/js/main.3b508413.js"
+  ]
+}
